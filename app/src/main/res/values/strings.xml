@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChartExtract</string>
+    <string name="menuFile" />
+    <string name="menuEdit" />
+    <string name="menuHelp" />
+    <string name="menuExit" />
+</resources>
